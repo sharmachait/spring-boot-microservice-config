@@ -22,7 +22,7 @@ spring:
     url: "{cipher}aeae83b4bc987c30ba76c8b3f408df132645e53518a37cf438e25cb80cf19e737bbacc093569d9085f8d2ff5f5e4950390143116e48767eaa5758120195c3689ed4aaadb5d3c732c4f3f0251fa211fb84be879426e3f9a830c69e82555a1651d66581a2eb5afb36aa2f9254d4e85dd27d86aaab5cbf3cdf658899c8a699f4ad2"
     #    url: jdbc:postgresql://ep-soft-recipe-a189x52v.ap-southeast-1.aws.neon.tech/test?sslmode=require
     username: learning_postgres_owner
-    password: t8qELP1OjCFp
+    password: t8qELP1OjCFpd
     driver-class-name: org.postgresql.Driver
 server:
   port: 8088
